@@ -2,83 +2,83 @@
     {
         "id": 1,
         "type": "Vêtement",
-        "image": "/public/img/vetementt.png",
+        "image": "./img/vetementt.png",
         "context": "Un jour dans un carnet, j'ai décidé de me faire des logos à l'éffigie de mon prénom. Après avoir dessiné plusieurs croquis, j'ai sélectionné le meilleur et je l'ai vectorisé sur Adobe Illustrator. Ensuite, j'ai utilisé Adobe Photoshop pour créer des maquettes de t-shirts et de sweats à capuche avec mon logo. ",
         "projets": [
             {
                 "nom": "Sweat Abi - gris",
-                "imageduprojet": "/public/img/sweatabig.png"
+                "imageduprojet": "./img/sweatabig.png"
             },
             {
                 "nom": "Sweat Abi - violet",
-                "imageduprojet": "/public/img/sweatabiv.png"
+                "imageduprojet": "./img/sweatabiv.png"
             },
             {
                 "nom": "Sweat Abi - bleu",
-                "imageduprojet": "/public/img/sweatabib.png"
+                "imageduprojet": "./img/sweatabib.png"
             },
             {
                 "nom": "Bonnet Abi - Bleu",
-                "imageduprojet": "/public/img/bonnetabib.png"
+                "imageduprojet": "./img/bonnetabib.png"
             },
             {
                 "nom": "Bonnet Abi - gris",
-                "imageduprojet": "/public/img/bonnetabi.png"
+                "imageduprojet": "./img/bonnetabi.png"
             },
             {
                 "nom": "Maillot Abi ",
-                "imageduprojet": "/public/img/maillotabi.png"
+                "imageduprojet": "./img/maillotabi.png"
             },
             {
                 "nom": "T-Shirt Abi ",
-                "imageduprojet": "/public/img/tshirtabi2D.png"
+                "imageduprojet": "./img/tshirtabi2D.png"
             },
             {
-                "imageduprojet": "/public/img/tshirtabi22D.png"
-            },
-            {
-                "nom": "T-shirt Abi 3D",
-                "imageduprojet": "/public/img/tshirtabi3D.png"
+                "imageduprojet": "./img/tshirtabi22D.png"
             },
             {
                 "nom": "T-shirt Abi 3D",
-                "imageduprojet": "/public/img/tshirtabi3DDtshirt.png"
+                "imageduprojet": "./img/tshirtabi3D.png"
+            },
+            {
+                "nom": "T-shirt Abi 3D",
+                "imageduprojet": "./img/tshirtabi3DDtshirt.png"
             }
         ]
     },
     {
         "id": 2,
         "type": "This is Spotify",
-        "image": "/public/img/thisisspotify.jpg",
+        "image": "./img/thisisspotify.jpg",
         "context": "Sur ce projet, je me suis inspiré de l'artiste Yacaloffgod. Le concept est simple, il suffit de remplacer les fameuses playlists Spotify 'This is' des artistes en réalisant des illustrations qui représente la carrière des artistes. ",
         "projets": [
             {
                 "nom": "This is ZOLA",
-                "imageduprojet": "/public/img/thisiszola.png"
+                "imageduprojet": "./img/thisiszola.png"
             },
             {
                 "nom": "This is TIAKOLA",
-                "imageduprojet": "/public/img/thisistiakola.png"
+                "imageduprojet": "./img/thisistiakola.png"
             },
             {
                 "nom": "This is DAMSO",
-                "imageduprojet": "/public/img/thisisdamso.png"
+                "imageduprojet": "./img/thisisdamso.png"
             },
             {
                 "nom": "This is SCH",
-                "imageduprojet": "/public/img/thisissch.png"
+                "imageduprojet": "./img/thisissch.png"
             }
         ]
     },
     {
         "id": 3,
         "type": "AC2FL",
-        "image": "/public/img/ac2flfond.png",
+        "image": "./img/ac2flfond.png",
         "context": "Plorem ipsum lorem ipsum lorem ipsumlorem ipsum lorem ipsum lorem ipsumlorem ipsum lorem ipsum lorem ipsumlorem ipsum lorem ipsum lorem ipsumlorem ipsum lorem ipsum lorem ipsumlorem ipsum lorem ipsum lorem ipsumlorem ipsum lorem ipsum lorem ipsum",
         "projets": [
             {
                 "nom": "Page d'accueil",
-                "imageduprojet": "/public/img/ac2fl.png"
+                "imageduprojet": "./img/ac2fl.png"
             }
         ]
     },
@@ -86,70 +86,70 @@
         "id": 4,
         "type": "Affiche sportive",
         "context": "Étant passionné par le sport et le design graphique, j'ai décidé de créer une série d'affiches sportives dans le monde du football mais aussi dans les jeux olympiques. L'objectif de ce projet était de capturer l'essence et l'énergie des événements sportifs à travers des visuels dynamiques et percutants. J'ai utilisé Adobe Photoshop pour concevoir ces affiches, en intégrant des éléments graphiques modernes et des techniques de retouche photo avancées afin de donner vie à chaque création. Ces affiches ont été partagées sur mon compte Instagram, où elles ont reçu un accueil positif de la part de la communauté, renforçant ainsi ma visibilité.",
-        "image": "/public/img/affichesport.jpg",
+        "image": "./img/affichesport.jpg",
         "projets": [
             {
                 "nom": "Leon Marchand - Le quadruple",
-                "imageduprojet": "/public/img/leonmarchand.png"
+                "imageduprojet": "./img/leonmarchand.png"
             },
             {
                 "nom": "Alex Lebrum & Felix Lebrum - En Demi-finale",
-                "imageduprojet": "/public/img/affichesport.jpg"
+                "imageduprojet": "./img/affichesport.jpg"
             },
             {
                 "nom": "Cristiano Ronaldo - Hommage pour ses 900 buts",
-                "imageduprojet": "/public/img/cr7.png"
+                "imageduprojet": "./img/cr7.png"
             },
             {
                 "nom": "Col Palmer - Chelsea FC",
-                "imageduprojet": "/public/img/colepalmer.png"
+                "imageduprojet": "./img/colepalmer.png"
             },
             {
                 "nom": "Neymar Jr",
-                "imageduprojet": "/public/img/neymar.png"
+                "imageduprojet": "./img/neymar.png"
             },
             {
                 "nom": "Bradley Barcola - PSG",
-                "imageduprojet": "/public/img/barcola.png"
+                "imageduprojet": "./img/barcola.png"
             },
             {
                 "nom": "Matchday PSG - Manchester City",
-                "imageduprojet": "/public/img/psgcity.png"
+                "imageduprojet": "./img/psgcity.png"
             },
             {
                 "nom": "Annonce de transfert Joao Neves - PSG",
-                "imageduprojet": "/public/img/joaoneves.png"
+                "imageduprojet": "./img/joaoneves.png"
             },
             {
                 "nom": "Lamine Yamal - FC Barcelone",
-                "imageduprojet": "/public/img/lamineyamal.png"
+                "imageduprojet": "./img/lamineyamal.png"
             },
             {
                 "nom": "Lionel Messi - Adidas Samba",
-                "imageduprojet": "/public/img/messi.png"
+                "imageduprojet": "./img/messi.png"
             },
             {
                 "nom": "Vinicius Jr ",
-                "imageduprojet": "/public/img/vinicius.png"
+                "imageduprojet": "./img/vinicius.png"
             },
             {
                 "nom": "Dembele - Ligue des Champions",
-                "imageduprojet": "/public/img/dembele.png"
+                "imageduprojet": "./img/dembele.png"
             },
             {
                 "nom": "Matchday PSG - Inter Milan",
-                "imageduprojet": "/public/img/psginter.png"
+                "imageduprojet": "./img/psginter.png"
             },
             {
                 "nom": "PSG x Adidas",
-                "imageduprojet": "/public/img/psgadidas.png"
+                "imageduprojet": "./img/psgadidas.png"
             }
         ]
     },
     {
         "id": 5,
         "type": "Vidéo",
-        "image": "/public/img/video.png",
+        "image": "./img/video.png",
         "context": "Étant dans une formation pluridisciplinaire, j'ai eu l'occasiion de mettre en pratique mes compétences en montage vidéo, en utilisant divers logiciels de montage vidéo, tels que Sony Vegas, Adobe Premier Pro et CapCut.",
         "projets": [
             {
@@ -165,297 +165,297 @@
     {
         "id": 6,
         "type": "Retouche d'album",
-        "image": "/public/img/bob.jpg",
+        "image": "./img/bob.jpg",
         "context": "Il s'agit d'un de mes projets préférés, l'objectif était de retoucher des couvertures d'albums de musiques, en des personnages de dessin animé celèbres ou de film. J'ai utilisé Adobe Draw (ancien logiciel pour vectoriel d'adobe) pour créer des illustrations vectorielles précises et colorées, puis j'ai intégré ces illustrations dans les couvertures d'albums en utilisant Adobe Photoshop pour un rendu professionnel et attrayant.Il s'agit d'un projet personnel que j'ai partagé sur mon compte Instagram pour montrer mes compétences en retouche photo et en illustration, ce qui m'a donne de la visibilité et des retours positifs",
         "projets": [
             {
                 "nom": "Kekra - Kekraland en Bob l'éponge",
-                "imageduprojet": "/public/img/bob.jpg"
+                "imageduprojet": "./img/bob.jpg"
             },
             {
                 "nom": "PLK - ENNA en Simpson",
-                "imageduprojet": "/public/img/simpson.png"
+                "imageduprojet": "./img/simpson.png"
             },
             {
                 "nom": "Jul - Emotions en Mario",
-                "imageduprojet": "/public/img/mario.png"
+                "imageduprojet": "./img/mario.png"
             },
             {
                 "nom": "Ninho - NI en Obito (Naruto)",
-                "imageduprojet": "/public/img/obito.png"
+                "imageduprojet": "./img/obito.png"
             },
             {
                 "nom": "Zola - Cicatrices en Sanai (One Piece)",
-                "imageduprojet": "/public/img/sanai.png"
+                "imageduprojet": "./img/sanai.png"
             },
             {
                 "nom": "Beendo Z - L'ÉLU en Mbappe & Zidane",
-                "imageduprojet": "/public/img/mbappezidane.jpeg"
+                "imageduprojet": "./img/mbappezidane.jpeg"
             },
             {
                 "nom": "Koba LaD - Détail en Spider-man",
-                "imageduprojet": "/public/img/spiderman.png"
+                "imageduprojet": "./img/spiderman.png"
             },
             {
                 "nom": "PNL - Le monde Chico en Bob l'éponge & Patrick",
-                "imageduprojet": "/public/img/bobpatrick.png"
+                "imageduprojet": "./img/bobpatrick.png"
             },
             {
                 "nom": "PNL - 91'S en Phineas & Ferb",
-                "imageduprojet": "/public/img/phineasferb.png"
+                "imageduprojet": "./img/phineasferb.png"
             }
         ]
     },
     {
         "id": 7,
         "type": "Le Cercle A",
-        "image": "/public/img/cercleA.png",
+        "image": "./img/cercleA.png",
         "context": "lorem ipsum lorem ipsum lorem ipsumlorem ipsum lorem ipsum lorem ipsumlorem ipsum lorem ipsum lorem ipsumlorem ipsum lorem ipsum lorem ipsumlorem ipsum lorem ipsum lorem ipsum",
         "projets": [
             {
                 "nom": "Personnages stylisés",
                 "description": "Illustration de trois personnages en style cartoon.",
-                "imageduprojet": "/public/img/cercleA1.png"
+                "imageduprojet": "./img/cercleA1.png"
             }
         ]
     },
     {
         "id": 8,
         "type": "LOGO",
-        "image": "/public/img/logopage.png",
+        "image": "./img/logopage.png",
         "context": "Voici quelques logos que j'ai créés pour divers projets personnels et clients. Chaque logo a été conçu en tenant compte de l'identité de la marque, de ses valeurs et de son public cible. J'ai utilisé Adobe Illustrator pour créer des designs vectoriels précis et adaptables à différents supports. Ces logos reflètent ma capacité à combiner créativité et professionnalisme dans le domaine du design graphique.",
         "projets": [
             {
                 "nom": "BDE Meaux - Association",
-                "imageduprojet": "/public/img/bdeiutmeaux.png"
+                "imageduprojet": "./img/bdeiutmeaux.png"
             },
             {
                 "nom": "Habi's - Marque de canette",
-                "imageduprojet": "/public/img/habis.png"
+                "imageduprojet": "./img/habis.png"
             },
             {
                 "nom": "Le Projet Phare - Association",
-                "imageduprojet": "/public/img/projetphare.png"
+                "imageduprojet": "./img/projetphare.png"
             },
             {
                 "nom": "1jour1marque - Média Instagram",
-                "imageduprojet": "/public/img/1jour1marquelogo.png"
+                "imageduprojet": "./img/1jour1marquelogo.png"
             },
             {
                 "nom": "Liska - Magazine",
-                "imageduprojet": "/public/img/liska.png"
+                "imageduprojet": "./img/liska.png"
             },
             {
                 "nom": "Ananote - Site web",
-                "imageduprojet": "/public/img/ananote.png"
+                "imageduprojet": "./img/ananote.png"
             },
             {
                 "nom": "Locks ST - Coiffeur",
-                "imageduprojet": "/public/img/lockst.png"
+                "imageduprojet": "./img/lockst.png"
             },
             {
                 "nom": "Noizzy - Évènement",
-                "imageduprojet": "/public/img/noizzy.png"
+                "imageduprojet": "./img/noizzy.png"
             },
             {
                 "nom": "Abi - 3D",
-                "imageduprojet": "/public/img/abi3D.png"
+                "imageduprojet": "./img/abi3D.png"
             },
             {
                 "nom": "Irahm - Agence digital",
-                "imageduprojet": "/public/img/irahm.png"
+                "imageduprojet": "./img/irahm.png"
             }
         ]
     },
     {
         "id": 9,
         "type": "TERRADATA",
-        "image": "/public/img/terradatafond.png",
+        "image": "./img/terradatafond.png",
         "context": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsumlorem ipsum lorem ipsum lorem ipsumlorem ipsum lorem ipsum lorem ipsumlorem ipsum lorem ipsum lorem ipsumlorem ipsum lorem ipsum lorem ipsumlorem ipsum lorem ipsum lorem ipsumlorem ipsum lorem ipsum lorem ipsum",
         "projets": [
             {
                 "nom": "Page d'accueil",
-                "imageduprojet": "/public/img/terradata1.png"
+                "imageduprojet": "./img/terradata1.png"
             },
             {
                 "nom": "Page d'accueil",
-                "imageduprojet": "/public/img/terradata2.png"
+                "imageduprojet": "./img/terradata2.png"
             },
             {
                 "nom": "Page d'accueil",
-                "imageduprojet": "/public/img/terradata3.png"
+                "imageduprojet": "./img/terradata3.png"
             },
             {
                 "nom": "Page d'accueil",
-                "imageduprojet": "/public/img/terradata4.png"
+                "imageduprojet": "./img/terradata4.png"
             },
             {
                 "nom": "Page d'accueil",
-                "imageduprojet": "/public/img/terradata5.png"
+                "imageduprojet": "./img/terradata5.png"
             },
             {
                 "nom": "Page d'accueil",
-                "imageduprojet": "/public/img/terradata6.png"
+                "imageduprojet": "./img/terradata6.png"
             },
             {
                 "nom": "Page d'accueil",
-                "imageduprojet": "/public/img/terradata7.png"
+                "imageduprojet": "./img/terradata7.png"
             },
             {
                 "nom": "Page d'accueil",
-                "imageduprojet": "/public/img/terradata8.png"
+                "imageduprojet": "./img/terradata8.png"
             }
         ]
     },
     {
         "id": 10,
         "type": "Affiche de concert",
-        "image": "/public/img/afficheconcert.png",
+        "image": "./img/afficheconcert.png",
         "context": "Pour ce projet, j'ai crée des affiches de concerts pour divers artistes et événements musicaux. L'objectif était de capturer l'essence de chaque artiste et de transmettre l'énergie de leurs performances à travers des visuels percutants. J'ai utilisé Adobe Photoshop et Illustrator pour concevoir ces affiches, en intégrant des éléments graphiques dynamiques, des typographies audacieuses et des compositions créatives. Ces affiches ont été partagées sur mon compte Instagram, où elles ont suscité l'intérêt et l'appréciation de la communauté.",
         "projets": [
             {
                 "nom": "Ninho - Stade de France",
-                "imageduprojet": "/public/img/afficheconcert.png"
+                "imageduprojet": "./img/afficheconcert.png"
             },
             {
                 "nom": "Hamza - Mania Tour",
-                "imageduprojet": "/public/img/kyky2bondy.png"
+                "imageduprojet": "./img/kyky2bondy.png"
             }
         ]
     },
     {
         "id": 11,
         "type": "Poster d'album",
-        "image": "/public/img/theweeknd.jpg",
+        "image": "./img/theweeknd.jpg",
         "context": "L'objectif de ce projet était de créer des affiches d'albums pour des artistes célèbres en utilisant des techniques de retouche photo avancées et des éléments graphiques innovants. Le tout, en utilisant Adobe Photoshop pour donner vie à des concepts visuels uniques. J'ai publié par la suite ces créations sur mon compte Instagram pour partager mon travail avec une audience plus large.",
         "projets": [
             {
                 "nom": "Tiakola - BDLM",
-                "imageduprojet": "/public/img/bdlmtiakola.png"
+                "imageduprojet": "./img/bdlmtiakola.png"
             },
             {
                 "nom": "Theodora - MÉGA BBL",
-                "imageduprojet": "/public/img/theodora.png"
+                "imageduprojet": "./img/theodora.png"
             },
             {
                 "nom": "Bad Bunny - 𝗗𝗲𝗯𝗶 𝗧𝗶𝗿𝗮𝗿 𝗠𝗮𝘀 𝗙𝗼𝘁𝗼𝘀",
-                "imageduprojet": "/public/img/badbunny.png"
+                "imageduprojet": "./img/badbunny.png"
             },
             {
                 "nom": "The Weeknd - Hurry Up Tomorrow",
-                "imageduprojet": "/public/img/theweeknd.jpg"
+                "imageduprojet": "./img/theweeknd.jpg"
             },
             {
                 "nom": "Hamza - MANIA",
-                "imageduprojet": "/public/img/hamza.png"
+                "imageduprojet": "./img/hamza.png"
             },
             {
                 "nom": "JolaGreen23 - GOTY EDITION",
-                "imageduprojet": "/public/img/jolagreen.png"
+                "imageduprojet": "./img/jolagreen.png"
             }
         ]
     },
     {
         "id": 12,
         "type": "SAZ'DRIVE",
-        "image": "/public/img/sazdrive.png",
+        "image": "./img/sazdrive.png",
         "context": "lorem ipsum lorem ipsum lorem ipsumlorem ipsum lorem ipsum lorem ipsumlorem ipsum lorem ipsum lorem ipsumlorem ipsum lorem ipsum lorem ipsumlorem ipsum lorem ipsum lorem ipsum",
         "projets": [
             {
                 "nom": "Page d'accueil",
-                "imageduprojet": "/public/img/sazdrive1.png"
+                "imageduprojet": "./img/sazdrive1.png"
             },
             {
                 "nom": "Page de connexion",
-                "imageduprojet": "/public/img/sazdrive2.png"
+                "imageduprojet": "./img/sazdrive2.png"
             },
             {
                 "nom": "Dashbord élève",
-                "imageduprojet": "/public/img/sazdrive3.png"
+                "imageduprojet": "./img/sazdrive3.png"
             },
             {
                 "nom": "Page avis",
-                "imageduprojet": "/public/img/sazdrive4.png"
+                "imageduprojet": "./img/sazdrive4.png"
             },
             {
                 "nom": "Page à propos",
-                "imageduprojet": "/public/img/sazdrive5.png"
+                "imageduprojet": "./img/sazdrive5.png"
             },
             {
                 "nom": "Page dasboard admin",
-                "imageduprojet": "/public/img/sazdrive7.png"
+                "imageduprojet": "./img/sazdrive7.png"
             },
             {
                 "nom": "Page modiifer élève",
-                "imageduprojet": "/public/img/sazdrive6.png"
+                "imageduprojet": "./img/sazdrive6.png"
             },
             {
                 "nom": "Page modifier un élève",
-                "imageduprojet": "/public/img/sazdrive8.png"
+                "imageduprojet": "./img/sazdrive8.png"
             },
             {
                 "nom": "Page ajouter un élève",
-                "imageduprojet": "/public/img/sazdrive9.png"
+                "imageduprojet": "./img/sazdrive9.png"
             }
         ]
     },
     {
         "id": 13,
         "type": "BEAST",
-        "image": "/public/img/beastfond.png",
+        "image": "./img/beastfond.png",
         "context": "lorem ipsum lorem ipsum lorem ipsumlorem ipsum lorem ipsum lorem ipsumlorem ipsum lorem ipsum lorem ipsumlorem ipsum lorem ipsum lorem ipsumlorem ipsum lorem ipsum lorem ipsum",
         "projets": [
             {
                 "nom": "Page d'accueil",
-                "imageduprojet": "/public/img/beast1.png"
+                "imageduprojet": "./img/beast1.png"
             },
             {
                 "nom": "Page de connexion",
-                "imageduprojet": "/public/img/beast2.png"
+                "imageduprojet": "./img/beast2.png"
             },
             {
                 "nom": "Dashbord élève",
-                "imageduprojet": "/public/img/beast3.png"
+                "imageduprojet": "./img/beast3.png"
             },
             {
                 "nom": "Page avis",
-                "imageduprojet": "/public/img/beast4.png"
+                "imageduprojet": "./img/beast4.png"
             }
         ]
     },
     {
         "id": 14,
         "type": "Airbnb Éco-responsable",
-        "image": "/public/img/airbnbeco.png",
+        "image": "./img/airbnbeco.png",
         "context": "Dans le cadre de ma formation en développement web, j'ai eu l'opportunité de concevoir et de développer plusieurs sites web pour divers projets. Chaque site a été créé en utilisant des technologies modernes telles que HTML, CSS, JavaScript, Angular, React et plein d'autres ! Afin d'assurer une expérience utilisateur optimale et un design attrayant. J'ai porté une attention particulière à la réactivité et à l'accessibilité, garantissant que les sites fonctionnent parfaitement sur différents appareils et navigateurs. Ces projets m'ont permis de renforcer mes compétences en développement web tout en créant des plateformes fonctionnelles et esthétiques.",
         "projets": [
             {
                 "nom": "Terradata",
-                "imageduprojet": "/public/img/airbnb1.png"
+                "imageduprojet": "./img/airbnb1.png"
             },
             {
                 "nom": "ACF2L",
-                "imageduprojet": "/public/img/airbnb4.png"
+                "imageduprojet": "./img/airbnb4.png"
             },
             {
                 "nom": "Le Cercle A",
-                "imageduprojet": "/public/img/airbnb2.png"
+                "imageduprojet": "./img/airbnb2.png"
             },
             {
                 "nom": "Beast",
-                "imageduprojet": "/public/img/airbnb3.png"
+                "imageduprojet": "./img/airbnb3.png"
             },
             {
                 "nom": "SAZ'Drive",
-                "imageduprojet": "/public/img/airbnb5.png"
+                "imageduprojet": "./img/airbnb5.png"
             },
             {
                 "nom": "AirBNB - Éco-responsable",
-                "imageduprojet": "/public/img/airbnb6.png"
+                "imageduprojet": "./img/airbnb6.png"
             },
             {
                 "nom": "AirBNB - Éco-responsable",
-                "imageduprojet": "/public/img/airbnb8.png"
+                "imageduprojet": "./img/airbnb8.png"
             }
         ]
     }
