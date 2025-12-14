@@ -1,0 +1,436 @@
+html, body {
+  height: 100%;
+  margin: 0;
+
+}
+body {
+  font-family: 'JetBrains Mono', monospace;
+}
+
+.text-justify {
+  text-align: justify;
+}
+/* Navbar initiale */
+.navbar-transparent {
+  background: transparent;
+  transition: all 0.3s ease;
+}
+
+.navbar-transparent .nav-link,
+.navbar-transparent .navbar-brand {
+  color: white !important;
+}
+
+/* Navbar après scroll */
+.navbar-scrolled {
+  background: white;
+  transition: all 0.3s ease;
+}
+
+.navbar-scrolled .nav-link,
+.navbar-scrolled .navbar-brand {
+  color: black !important;
+}
+
+.col-5th {
+  flex: 0 0 20%;   /* chaque carte prend 20% */
+  max-width: 20%;
+}
+.bg-brown {
+  background-color: #6e3b2f; /* adapte à ton rouge-brun */
+}
+/* Piste scrollable horizontale */
+.projets-track {
+  overflow-x: auto;
+  overflow-y: hidden;
+  scroll-behavior: smooth;
+  -webkit-overflow-scrolling: touch;
+  gap: 8px;
+}
+
+/* Cacher la scrollbar (optionnel) */
+.projets-track::-webkit-scrollbar {
+  height: 0;
+}
+
+/* Carte projet : 5 par ligne sur desktop */
+.projet-card {
+  flex: 0 0 20%;
+  max-width: 20%;
+}
+
+/* Image contenue proprement (adaptable à ton design) */
+.projet-img-wrapper {
+  background: #f2f2f2;          /* remplace par ta couleur si besoin */
+  padding: 12px;
+}
+
+/* Responsive: 3 sur tablette, 2 sur mobile */
+@media (max-width: 992px) {
+  .projet-card { flex: 0 0 33.333%; max-width: 33.333%; }
+}
+@media (max-width: 576px) {
+  .projet-card { flex: 0 0 50%; max-width: 50%; }
+}
+.all-caps {
+  text-transform: uppercase;
+}
+.text-justify {
+  text-align: justify;
+}
+.transition {
+  transition: transform 0.5s ease;
+}
+.arriereplanavion {
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  min-height: 100vh;
+}
+.list-spaced li {
+  margin-bottom: 8px;
+}
+.color-overlay {
+  background-color: rgba(0, 0, 0, 0.5);
+  width: 100%;
+  height: 100%;
+}
+.arriereplanavion {
+  background-color: red;
+  min-height: 100vh;
+}
+
+
+/* 5 colonnes sur desktop */
+.col-5th {
+  flex: 0 0 20%;
+  max-width: 20%;
+}
+
+/* 3 colonnes sur tablette */
+@media (max-width: 992px) {
+  .col-5th {
+    flex: 0 0 33.333%;
+    max-width: 33.333%;
+  }
+}
+
+/* 1 colonne sur mobile */
+@media (max-width: 576px) {
+  .col-5th {
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+}
+
+/* Hauteur des containers images par défaut (grand écran ≥1730px) */
+.projet-image-container {
+  height: 700px;
+}
+
+.projet-image-container img {
+  max-height: 650px;
+  width: auto;
+  object-fit: contain;
+}
+
+/* ✅ Réduction quand largeur < 1730px */
+@media (max-width: 1730px) {
+  .projet-image-container {
+    height: 490px; /* plus petit */
+  }
+  .projet-image-container img {
+    max-height: 500px;
+  }
+}
+
+/* Ajuste sur tablette */
+@media (max-width: 992px) {
+  .projet-image-container {
+    height: 400px;
+  }
+  .projet-image-container img {
+    max-height: 370px;
+  }
+}
+
+/* Ajuste sur mobile */
+@media (max-width: 576px) {
+  .projet-image-container {
+    height: 350px;
+  }
+  .projet-image-container img {
+    max-height: 290px;
+  }
+}
+.btn-green-circle {
+  background-color: #58583B; /* couleur demandée */
+  color: white;
+  border: none;
+  border-radius: 50%; /* rond */
+  width: 50px;
+  height: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Hover simple : juste garder la couleur */
+.btn-green-circle:hover {
+  background-color: #58583B;
+  color: white;
+}
+
+/* Active (clic) : devient blanc avec bordure verte */
+.btn-green-circle:active {
+  background-color: white;
+  color: #58583B;
+  border: 2px solid #58583B;
+}
+
+
+/* Arrière-plan avion */
+.logo-hover {
+  max-width: 40px;
+  height: auto;
+  transition: transform 0.3s ease; /* animation fluide */
+}
+
+.logo-hover:hover {
+  transform: scale(1.2); /* zoom léger au survol */
+}
+
+.scroll-banner {
+  width: 100%;
+  overflow: hidden;
+  background: transparent;
+}
+
+.scroll-track {
+  display: flex;
+  width: max-content;
+  gap: 20px; /* petit espace entre les images */
+  animation: scroll-left 25s linear infinite; /* plus lent */
+}
+
+.scroll-item {
+  flex: 0 0 auto;
+}
+
+.scroll-img {
+  height: 400px;
+  width: auto;
+  object-fit: cover;
+  display: block;
+  margin: 0;
+  padding: 0;
+}
+
+/* Animation gauche */
+.scroll-left {
+  animation: scroll-left 25s linear infinite;
+}
+
+/* Animation droite + margin-top */
+.scroll-right {
+  animation: scroll-right 25s linear infinite;
+  margin-top: 20px; /* ⚡ espace au-dessus pour ne pas coller */
+}
+
+@keyframes scroll-left {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(-50%);
+  }
+}
+
+@keyframes scroll-right {
+  from {
+    transform: translateX(-50%);
+  }
+  to {
+    transform: translateX(0);
+  }  }
+
+
+/* Masquer scrollbar sur Chrome, Safari et Edge */
+.scroll-hidden::-webkit-scrollbar {
+  display: none;
+}
+
+/* Masquer scrollbar sur Firefox */
+.scroll-hidden {
+  scrollbar-width: none; /* cache la barre */
+  -ms-overflow-style: none; /* IE et Edge */
+}
+
+/* Ligne noire stylisée */
+.custom-line {
+  width: 100%;
+  height: 2px;
+  background-color: #000;
+  margin: 2rem 0;
+}
+
+/* Scope uniquement à la page Projects */
+.projects-page .card {
+  overflow: hidden;
+  border-radius: 0 !important;
+}
+
+.projects-page .card-img-top {
+  border-radius: 0 !important;
+}
+
+.projects-page .card img {
+  transition: transform 0.3s ease;
+}
+
+.projects-page .card:hover img {
+  transform: scale(1.05); /* zoom léger au hover */
+}
+
+.projects-page .overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  background: rgba(0, 0, 0, 0.5); /* overlay noir */
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.projects-page .card:hover .overlay {
+  opacity: 1; /* apparaît au hover */
+}
+
+.btn-retour {
+  text-decoration: none;   /* enlève le soulignement par défaut */
+  color: #000;             /* texte noir */
+  transition: all 0.3s ease;
+}
+
+.btn-retour:hover {
+  text-decoration: underline; /* ajoute soulignement au hover */
+  text-decoration-color: #58583B; /* couleur du soulignement */
+  text-decoration-thickness: 2px; /* épaisseur du soulignement */
+}
+.btn-competences {
+  color: #fff; /* texte blanc par défaut */
+  text-decoration: none;
+}
+
+.btn-competences:hover {
+  background-color: #fff; /* fond blanc au hover */
+  color: #000;            /* texte noir au hover */
+  border-color: #fff;     /* garde la bordure blanche */
+}
+/* Par défaut transparent */
+.navbar-transparent .navbar-brand,
+.navbar-transparent .nav-link {
+  color: #fff; /* texte blanc */
+}
+
+/* Quand on scroll */
+.navbar-scrolled {
+  background-color: #fff !important;
+}
+.navbar-scrolled .navbar-brand,
+.navbar-scrolled .nav-link {
+  color: #000 !important;
+}
+
+/* Spécial pour la page projets : texte noir dès le départ */
+.navbar-project .navbar-brand,
+.navbar-project .nav-link {
+  color: #000 !important;
+}
+.social-block {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 450px;
+  width: 100%;
+  background-size: cover;
+  background-position: center;
+  position: relative;
+  text-decoration: none;
+  color: white;
+  overflow: hidden;
+}
+
+.overlay-text {
+  font-size: 2rem;
+  font-weight: bold;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+  z-index: 2;
+}
+
+.social-block::after {
+  content: "";
+  position: absolute;
+  top: 0; left: 0;
+  width: 100%; height: 100%;
+  background: rgba(0,0,0,0.5); /* voile sombre */
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.social-block:hover::after {
+  opacity: 1;
+}
+
+.social-block:hover .overlay-text {
+  opacity: 1;
+}
+.contact-block {
+  color: #000; /* texte noir par défaut */
+  transition: all 0.3s ease;
+}
+
+.contact-block:hover {
+  background-color: #58583B; /* fond vert/brun */
+  color: #EBE7E5;            /* texte beige clair */
+  border-color: #58583B;     /* harmonise la bordure */
+}
+/* Desktop / tablette → inline avec espace */
+.skills-block {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem; /* espace large */
+}
+
+/* Mobile → liste verticale compacte */
+@media (max-width: 576px) {
+  .skills-block {
+    display: block;       /* chaque item en bloc */
+  }
+  .skills-block span {
+    display: block;
+    margin-bottom: 0.5rem; /* petit espace entre eux */
+  }
+}/* Style normal du bouton */
+.btn-outline-light.text-white {
+  color: #fff; /* texte blanc par défaut */
+  border-color: #fff;
+}
+
+/* Style au hover */
+.btn-outline-light.text-white:hover {
+  color: #000 !important; /* texte noir au survol */
+  background-color: #fff !important; /* fond blanc pour contraste */
+  border-color: #000 !important; /* bordure noire */
+}
+.btn-projets {
+  width: 100%;        /* mobile par défaut */
+}
+
+@media (min-width: 768px) {
+  .btn-projets {
+    width: auto;      /* desktop */
+  }
+}
