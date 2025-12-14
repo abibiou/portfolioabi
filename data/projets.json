@@ -2,120 +2,120 @@
   {
     "id": 1,
     "type": "Affiche d'album",
-    "image": "/public/img/theweeknd.jpg",
+    "image": "/img/theweeknd.jpg",
     "projets": [
       {
         "nom": "Tiakola - BDLM",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-        "imageduprojet": "/public/img/bdlmtiakola.png"
+        "imageduprojet": "/img/bdlmtiakola.png"
       }
     ]
   },
   {
     "id": 2,
     "type": "Retouche d'album",
-    "image": "/public/img/bob.jpg",
+    "image": "/img/bob.jpg",
     "projets": [
       {
         "nom": "Dembele - Ballon d'or",
         "description": "Création d’un vêtement avec motif graphique unique.",
-        "imageduprojet": "/public/img/dembele.png"
+        "imageduprojet": "/img/dembele.png"
       }
     ]
   },
   {
     "id": 3,
     "type": "Vêtement",
-    "image": "/public/img/vetement.png",
+    "image": "/img/vetement.png",
     "projets": [
       {
         "nom": "Theodora",
         "description": "Design d’une app média pour une marque.",
-        "imageduprojet": "/public/img/theodora.png"
+        "imageduprojet": "/img/theodora.png"
       }
     ]
   },
   {
     "id": 4,
     "type": "1JOUR1MARQUE",
-    "image": "/public/img/1jour1marque.png",
+    "image": "/img/1jour1marque.png",
     "projets": [
       {
         "nom": "The Weeknd - Hurry up tomorrow",
         "description": "Affiche sportive inspirée des Jeux Olympiques.",
-        "imageduprojet": "/public/img/theweeknd.jpg"
+        "imageduprojet": "/img/theweeknd.jpg"
       }
     ]
   },
   {
     "id": 5,
     "type": "AFFICHE SPORTIF",
-    "image": "/public/img/affichesport.jpg",
+    "image": "/img/affichesport.jpg",
     "projets": [
       {
         "nom": "Hamza - MANIA",
         "description": "Développement d’un site web responsive en React.",
-        "imageduprojet": "/public/img/hamza.png"
+        "imageduprojet": "/img/hamza.png"
       }
     ]
   },
   {
     "id": 6,
     "type": "Logo",
-    "image": "/public/img/logo.png",
+    "image": "/img/logo.png",
     "projets": [
       {
         "nom": "Logo minimaliste",
         "description": "Création d’un logo simple et moderne.",
-        "imageduprojet": "/public/img/projet6.png"
+        "imageduprojet": "/img/projet6.png"
       }
     ]
   },
   {
     "id": 7,
     "type": "SITE WEB",
-    "image": "/public/img/siteweb.png",
+    "image": "/img/siteweb.png",
     "projets": [
       {
         "nom": "Personnages stylisés",
         "description": "Illustration de trois personnages en style cartoon.",
-        "imageduprojet": "/public/img/projet7.png"
+        "imageduprojet": "/img/projet7.png"
       }
     ]
   },
   {
     "id": 8,
     "type": "This is Spotify",
-    "image": "/public/img/thisisspotify.jpg",
+    "image": "/img/thisisspotify.jpg",
     "projets": [
       {
         "nom": "Montage créatif",
         "description": "Collage graphique avec voiture et personnages.",
-        "imageduprojet": "/public/img/projet8.png"
+        "imageduprojet": "/img/projet8.png"
       }
     ]
   },
   {
     "id": 9,
     "type": "Magazine",
-    "image": "/public/img/mag.png",
+    "image": "/img/mag.png",
     "projets": [
       {
         "nom": "Ninja Scrapbook",
         "description": "Affiche sombre inspirée du thème Ninja.",
-        "imageduprojet": "/public/img/projet9.png"
+        "imageduprojet": "/img/projet9.png"
       }
     ]
   },
   {
     "id": 10,
     "type": "Affiche concert",
-    "image": "/public/img/afficheconcert.png",
+    "image": "/img/afficheconcert.png",
     "projets": [
       {
         "nom": "Portrait artistique",
         "description": "Retouche photo avec effets de lumière et contraste.",
-        "imageduprojet": "/public/img/projet10.png"
+        "imageduprojet": "/img/projet10.png"
       }
     ]
   }
