@@ -3,7 +3,7 @@
         "id": 1,
         "type": "Vêtement",
         "image": "/img/vetementt.png",
-        "context": "Un jour dans un carnet, j'ai décidé de me faire des logos à l'éffigie de mon prénom. Après avoir dessiné plusieurs croquis, j'ai sélectionné le meilleur et je l'ai vectorisé sur Adobe Illustrator. Ensuite, j'ai utilisé Adobe Photoshop pour créer des maquettes de t-shirts et de sweats avec mon logo. ",
+        "context": "Un jour dans un carnet, j'ai décidé de me faire des logos à l'éffigie de mon prénom. Après avoir dessiné plusieurs croquis, j'ai sélectionné le meilleur et je l'ai vectorisé sur Adobe Illustrator. Ensuite, j'ai utilisé Adobe Photoshop pour créer des maquettes de t-shirts et de sweats avec mon logo. Le principal défi a été d’adapter mon logo pour qu’il reste lisible et équilibré sur différents supports. Les premiers essais montraient que certains détails disparaissaient ou se déformaient une fois appliqués sur les maquettes de t-shirts et sweats, ce qui m’a obligé à simplifier et retravailler le design.",
         "projets": [
             {
                 "nom": "Sweat Abi - gris",
@@ -74,7 +74,7 @@
         "id": 3,
         "type": "AC2FL",
         "image": "/img/ac2flfond.png",
-        "context": "Plorem ipsum lorem ipsum lorem ipsumlorem ipsum lorem ipsum lorem ipsumlorem ipsum lorem ipsum lorem ipsumlorem ipsum lorem ipsum lorem ipsumlorem ipsum lorem ipsum lorem ipsumlorem ipsum lorem ipsum lorem ipsumlorem ipsum lorem ipsum lorem ipsum",
+        "context": "Pour les AC2FL, j’ai conçu une page d’accueil moderne et intuitive, pensée pour mettre en valeur l’identité de l’association et faciliter l’accès aux informations clés. L’accent a été mis sur la clarté, l’ergonomie et une mise en page accueillante.",
         "projets": [
             {
                 "nom": "Page d'accueil",
@@ -166,7 +166,7 @@
         "id": 6,
         "type": "Retouche d'album",
         "image": "/img/bob.jpg",
-        "context": "Il s'agit d'un de mes projets préférés, l'objectif était de retoucher des couvertures d'albums de musiques, en des personnages de dessin animé celèbres ou de film. J'ai utilisé Adobe Draw (ancien logiciel pour vectoriel d'adobe) pour créer des illustrations vectorielles précises et colorées, puis j'ai intégré ces illustrations dans les couvertures d'albums en utilisant Adobe Photoshop pour un rendu professionnel et attrayant.Il s'agit d'un projet personnel que j'ai partagé sur mon compte Instagram pour montrer mes compétences en retouche photo et en illustration, ce qui m'a donne de la visibilité et des retours positifs",
+        "context": "Il s'agit d'un de mes projets préférés, l'objectif était de retoucher des couvertures d'albums de musiques, en des personnages de dessin animé celèbres ou de film. J'ai utilisé Adobe Draw (ancien logiciel pour vectoriel d'adobe) pour créer des illustrations vectorielles précises et colorées, puis j'ai intégré ces illustrations dans les couvertures d'albums en utilisant Adobe Photoshop pour un rendu professionnel et attrayant.Il s'agit d'un projet personnel que j'ai partagé sur mon compte Instagram pour montrer mes compétences en retouche photo et en illustration, ce qui m'a donne de la visibilité et des retours positifs.",
         "projets": [
             {
                 "nom": "Kekra - Kekraland en Bob l'éponge",
@@ -210,11 +210,10 @@
         "id": 7,
         "type": "Le Cercle A",
         "image": "/img/cercleA.png",
-        "context": "lorem ipsum lorem ipsum lorem ipsumlorem ipsum lorem ipsum lorem ipsumlorem ipsum lorem ipsum lorem ipsumlorem ipsum lorem ipsum lorem ipsumlorem ipsum lorem ipsum lorem ipsum",
+        "context": "C'est un projet que j'ai réalisé au cours de mon stage de première année, il fallait concevoir l'interface pour la page d'accueil d'un site BNI présentant leur réseau d'entrepreneur.",
         "projets": [
             {
-                "nom": "Personnages stylisés",
-                "description": "Illustration de trois personnages en style cartoon.",
+                "nom": "Page d'accueil",
                 "imageduprojet": "/img/cercleA1.png"
             }
         ]
@@ -271,38 +270,35 @@
         "id": 9,
         "type": "TERRADATA",
         "image": "/img/terradatafond.png",
-        "context": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsumlorem ipsum lorem ipsum lorem ipsumlorem ipsum lorem ipsum lorem ipsumlorem ipsum lorem ipsum lorem ipsumlorem ipsum lorem ipsum lorem ipsumlorem ipsum lorem ipsum lorem ipsumlorem ipsum lorem ipsum lorem ipsum",
+        "context": "Ce projet est un site qui pérsente le domaine du biocontrôle avec les solutions qui peuvnet être adaptées pour protéger l'environnement.",
         "projets": [
             {
                 "nom": "Page d'accueil",
                 "imageduprojet": "/img/terradata1.png"
             },
             {
-                "nom": "Page d'accueil",
+                "nom": "Page biocontrôle",
                 "imageduprojet": "/img/terradata2.png"
             },
             {
-                "nom": "Page d'accueil",
                 "imageduprojet": "/img/terradata3.png"
             },
             {
-                "nom": "Page d'accueil",
                 "imageduprojet": "/img/terradata4.png"
             },
             {
-                "nom": "Page d'accueil",
                 "imageduprojet": "/img/terradata5.png"
             },
             {
-                "nom": "Page d'accueil",
+                "nom": "Page nos conseils",
                 "imageduprojet": "/img/terradata6.png"
             },
             {
-                "nom": "Page d'accueil",
+                "nom": "Page les datas",
                 "imageduprojet": "/img/terradata7.png"
             },
             {
-                "nom": "Page d'accueil",
+                "nom": "Page les datas",
                 "imageduprojet": "/img/terradata8.png"
             }
         ]
@@ -403,7 +399,7 @@
         "id": 13,
         "type": "BEAST",
         "image": "/img/beastfond.png",
-        "context": "lorem ipsum lorem ipsum lorem ipsumlorem ipsum lorem ipsum lorem ipsumlorem ipsum lorem ipsum lorem ipsumlorem ipsum lorem ipsum lorem ipsumlorem ipsum lorem ipsum lorem ipsum",
+        "context": "Beast est un site de e-commerce dédiée aux vêtements, de randonnées, offrant des équipements de qualité pour les amateurs d'aventure et de plein air.",
         "projets": [
             {
                 "nom": "Page d'accueil",
