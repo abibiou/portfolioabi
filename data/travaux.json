@@ -3,7 +3,7 @@
         "id": 1,
         "type": "Vêtement",
         "image": "/img/vetementt.png",
-        "context": "Un jour dans un carnet, j'ai décidé de me faire des logos à l'éffigie de mon prénom. Après avoir dessiné plusieurs croquis, j'ai sélectionné le meilleur et je l'ai vectorisé sur Adobe Illustrator. Ensuite, j'ai utilisé Adobe Photoshop pour créer des maquettes de t-shirts et de sweats avec mon logo. Le principal défi a été d’adapter mon logo pour qu’il reste lisible et équilibré sur différents supports. Les premiers essais montraient que certains détails disparaissaient ou se déformaient une fois appliqués sur les maquettes de t-shirts et sweats, ce qui m’a obligé à simplifier et retravailler le design.",
+        "context": "Un jour, dans un carnet, j’ai décidé de créer des logos à l’effigie de mon prénom. Après avoir dessiné plusieurs croquis, j’ai sélectionné le meilleur et je l’ai vectorisé sur Adobe Illustrator. Ensuite, j’ai utilisé Adobe Photoshop pour réaliser des maquettes de t-shirts et de sweats avec mon logo. Le principal défi a été d’adapter le design pour qu’il reste lisible et équilibré sur différents supports. Les premiers essais montraient que certains détails disparaissaient ou se déformaient une fois appliqués sur les maquettes, ce qui m’a obligé à simplifier et retravailler le logo. Ce projet m’a permis de développer mes compétences dans la création de logos et leur intégration dans des mockups, en travaillant sur la cohérence visuelle et l’adaptation aux supports. La difficulté la plus marquante a été l’incrustation du logo en fonction des coloris des vêtements, car certains contrastes rendaient le logo moins visible, ce qui m’a poussé à ajuster les teintes et les formes pour obtenir un rendu harmonieux.",
         "projets": [
             {
                 "nom": "Sweat Abi - gris",
@@ -270,7 +270,7 @@
         "id": 9,
         "type": "TERRADATA",
         "image": "/img/terradatafond.png",
-        "context": "Ce projet est un site qui pérsente le domaine du biocontrôle avec les solutions qui peuvnet être adaptées pour protéger l'environnement.",
+        "context": "Ce projet est un site qui présente le domaine du biocontrôle et les solutions pouvant être adaptées pour protéger l’environnement. Je l’ai réalisé avec du HTML et du CSS, ce qui m’a aussi permis de découvrir Bootstrap, ainsi que du JavaScript. Grâce à ce travail, j’ai pu créer un site avec un design cohérent et renforcer mes compétences en intégration web, en mise en page et en gestion de la structure d’une application. J’ai également appris à travailler sur la cohérence visuelle et l’adaptation aux différents supports. Les principales difficultés rencontrées concernaient l’utilisation de D3.js pour l’affichage de graphiques à partir d’un fichier JSON, la mise en place du responsive design qui demandait beaucoup d’ajustements au départ, ainsi que l’importation de modèles 3D. Sur le site réel, l’affichage des textures des organismes a pris beaucoup de temps à être correctement rendu, ce qui m’a obligé à expérimenter et ajuster plusieurs fois la configuration pour obtenir un résultat satisfaisant.",
         "projets": [
             {
                 "nom": "Page d'accueil",
@@ -355,7 +355,7 @@
         "id": 12,
         "type": "SAZ'DRIVE",
         "image": "/img/sazdrive.png",
-        "context": "lorem ipsum lorem ipsum lorem ipsumlorem ipsum lorem ipsum lorem ipsumlorem ipsum lorem ipsum lorem ipsumlorem ipsum lorem ipsum lorem ipsumlorem ipsum lorem ipsum lorem ipsum",
+        "context": "SAZ’DRIVE est une plateforme permettant aux élèves d’observer leurs résultats lors de leurs entraînements de code, afin de mieux progresser pour obtenir le code de la route. Elle offre aussi aux auto-écoles la possibilité d’inscrire des élèves et de leur attribuer un formateur chargé de suivre leur formation. Pour mettre en place ce projet, j’ai conçu une charte graphique, créé un logo et réalisé la maquette du parcours utilisateur avec Figma. Côté technique, j’ai utilisé HTML, CSS avec Bootstrap, JavaScript, TypeScript, PHP, SQL, le tout intégré dans un projet Angular. Ce travail m’a permis de renforcer mes compétences en développement web, en gestion d’une application complète (front-end, back-end et base de données), ainsi qu’en conception d’interfaces. J’ai également découvert les difficultés liées à l’hébergement et à la connexion de la base de données, qui m’ont appris à déboguer pas à pas. Finalement, le problème venait simplement d’une ligne de code, ce qui m’a montré l’importance de la rigueur et de la précision dans un projet web.",
         "projets": [
             {
                 "nom": "Page d'accueil",
