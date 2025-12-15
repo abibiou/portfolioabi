@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "type": "Vêtement",
+        "type": "Vêtements",
         "image": "/img/vetementt.png",
         "context": "Un jour, dans un carnet, j’ai décidé de créer des logos à l’effigie de mon prénom. Après avoir dessiné plusieurs croquis, j’ai sélectionné le meilleur et je l’ai vectorisé sur Adobe Illustrator. Ensuite, j’ai utilisé Adobe Photoshop pour réaliser des maquettes de t-shirts et de sweats avec mon logo. Le principal défi a été d’adapter le design pour qu’il reste lisible et équilibré sur différents supports. Les premiers essais montraient que certains détails disparaissaient ou se déformaient une fois appliqués sur les maquettes, ce qui m’a obligé à simplifier et retravailler le logo. Ce projet m’a permis de développer mes compétences dans la création de logos et leur intégration dans des mockups, en travaillant sur la cohérence visuelle et l’adaptation aux supports. La difficulté la plus marquante a été l’incrustation du logo en fonction des coloris des vêtements, car certains contrastes rendaient le logo moins visible, ce qui m’a poussé à ajuster les teintes et les formes pour obtenir un rendu harmonieux.",
         "projets": [
