@@ -427,34 +427,34 @@
         "id": 14,
         "type": "Airbnb Éco-responsable",
         "image": "/img/airbnbeco.png",
-        "context": "Dans le cadre de ma formation en développement web, j'ai eu l'opportunité de concevoir et de développer plusieurs sites web pour divers projets. Chaque site a été créé en utilisant des technologies modernes telles que HTML, CSS, JavaScript, Angular, React et plein d'autres ! Afin d'assurer une expérience utilisateur optimale et un design attrayant. J'ai porté une attention particulière à la réactivité et à l'accessibilité, garantissant que les sites fonctionnent parfaitement sur différents appareils et navigateurs. Ces projets m'ont permis de renforcer mes compétences en développement web tout en créant des plateformes fonctionnelles et esthétiques.",
+        "context": "Ma mission consistait à développer, dans une approche centrée utilisateurs et itérative, des fonctionnalités pour un acteur de la location touristique. Le but : favoriser des hébergements respectueux de l’environnement et inciter les voyageurs à adopter des pratiques durables (initiatives locales, transports, activités).",
         "projets": [
             {
-                "nom": "Terradata",
+                "nom": "Page d'accueil",
                 "imageduprojet": "/img/airbnb1.png"
             },
             {
-                "nom": "ACF2L",
+                "nom": "Page de filtre",
                 "imageduprojet": "/img/airbnb4.png"
             },
             {
-                "nom": "Le Cercle A",
+                "nom": "Page d'un logement",
                 "imageduprojet": "/img/airbnb2.png"
             },
             {
-                "nom": "Beast",
+                "nom": "Page Greencollect",
                 "imageduprojet": "/img/airbnb3.png"
             },
             {
-                "nom": "SAZ'Drive",
+                "nom": "Page mon compte",
                 "imageduprojet": "/img/airbnb5.png"
             },
             {
-                "nom": "AirBNB - Éco-responsable",
+                "nom": "Page Greenmap",
                 "imageduprojet": "/img/airbnb6.png"
             },
             {
-                "nom": "AirBNB - Éco-responsable",
+                "nom": "Page achat logement",
                 "imageduprojet": "/img/airbnb8.png"
             }
         ]
